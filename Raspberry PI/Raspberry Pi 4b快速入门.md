@@ -2,8 +2,7 @@ Raspberry Pi®是[Raspberry Pi Foundation](http://www.raspberrypi.org/)基于**A
 
 Raspberry Pi 4 B是最新版本，可以在[这里](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)查看介绍。
 
-![Raspberry Pi 4b](https://raw.githubusercontent.com/ericwangzq/Eric_Blog/master/assets/20200504163646.jpg)
-
+![20200504163646](https://raw.githubusercontent.com/ericwangzq/Eric_Blog/master/assets/20200504163646.jpg?token=ACWILHE6SUG66WFO4MS2RFK6WKIZO)
 # 镜像安装
 
 系统的安装依然要用SD卡，先将系统镜像烧录进SD卡，后插到树莓派上，通电即可启动并运行。
@@ -13,7 +12,7 @@ Raspberry Pi 4 B是最新版本，可以在[这里](https://www.raspberrypi.org/
 这里将介绍用MacOS对SD卡进行烧录：
 - 将Tf卡插入SD卡读卡器，并插入Mac电脑。SD卡容量建议不小于16G。
 - 在这里下载[Etcher](https://etcher.io/)——SD卡烧录软件，下载完成后安装并打开。
-![Etcher](https://raw.githubusercontent.com/ericwangzq/Eric_Blog/master/assets/20200504170354.png)
+![20200504170354](https://raw.githubusercontent.com/ericwangzq/Eric_Blog/master/assets/20200504170354.jpg)
 - 依照指引选择镜像文件，再选择目标SD卡，最后点击Flash，等待几分钟即完成了烧录。
 
 ## 开启SSH
