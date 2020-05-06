@@ -3,6 +3,7 @@ Raspberry Pi®是[Raspberry Pi Foundation](http://www.raspberrypi.org/)基于**A
 Raspberry Pi 4 B是最新版本，可以在[这里](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)查看介绍。
 
 ![Raspberry Pi 4b](https://raw.githubusercontent.com/ericwangzq/Eric_Blog/master/assets/20200504163646.jpg)
+
 # 镜像安装
 
 系统的安装依然要用SD卡，先将系统镜像烧录进SD卡，后插到树莓派上，通电即可启动并运行。
